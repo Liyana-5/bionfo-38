@@ -1,2 +1,2 @@
 # bionfo-38
-Bioinformatics projects 
+Bioinformatics projects in R
